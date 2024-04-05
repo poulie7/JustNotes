@@ -1,6 +1,32 @@
 {
-    "notes": [
-        {"id": 1,
-        "note": "hello world!"}
-    ]
+  "notes": [
+    {
+      "id": "1",
+      "note": "hello world!"
+    },
+    {
+      "id": 276854,
+      "note": "atgsfgd"
+    },
+    {
+      "id": 389099,
+      "note": "Saša se na mě dívá!!!!"
+    },
+    {
+      "id": 74250,
+      "note": "ahoj"
+    },
+    {
+      "id": 683864,
+      "note": "další poznámka"
+    },
+    {
+      "id": 644792,
+      "note": "toto je nová poznámka"
+    },
+    {
+      "id": 325346,
+      "note": "ahoj, toto je moje nová poznámka \n"
+    }
+  ]
 }
